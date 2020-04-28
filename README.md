@@ -1,2 +1,2 @@
-# godot3dvectorlearning
-learning 3d vectors with godot
+# godot3dvectorgame
+example game to help me learn manipulating godot'S 3d vectors
